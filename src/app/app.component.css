@@ -1,0 +1,7 @@
+.brand-content {
+    display: flex;
+    align-items: center; 
+  }
+  .brand-logo {
+    margin-right: 5px; 
+  }
